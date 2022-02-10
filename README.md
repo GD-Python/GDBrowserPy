@@ -1,3 +1,5 @@
 # GDBrowserPy
 Importing
-`from GDBrowserPy import GD`
+```python
+from GDBrowserPy import GD
+```
