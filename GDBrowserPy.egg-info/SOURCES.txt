@@ -1,0 +1,8 @@
+README.txt
+pyproject.toml
+setup.py
+GDBrowserPy/__init__.py
+GDBrowserPy.egg-info/PKG-INFO
+GDBrowserPy.egg-info/SOURCES.txt
+GDBrowserPy.egg-info/dependency_links.txt
+GDBrowserPy.egg-info/top_level.txt
