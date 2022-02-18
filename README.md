@@ -50,6 +50,7 @@ level.songID # Get songID of Level
 level.leaderboard(count=100,weekly=False) # Returns Level Leaderboard. 
 # count is the amount leaderboard players to get. 
 # weekly is weather to get the weekly leaderboard or not
-level.like(username="username",password="password") # Like the level
+level.like(type=1,username="username",password="password") # Like the level
+level.like(type=0,username="username",password="password") # Disike the level
 ```
 
